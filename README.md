@@ -15,7 +15,7 @@ sergey_agafonov@mail.ru
 I have been working as a software testing engineer for 10 years. Last three years I’ve tested SCA (Static Code Analyzer).  
 Main responsibilities were writing vulnerable snippets on C#, Golang to verify if SCA detects vulnerabilities correctly.  
 I’m interested in information security,  automation testing.
-<br><br>
+<br>
 
 ## Skills
 ### Tools and Technologies
@@ -47,24 +47,22 @@ I’m interested in information security,  automation testing.
 
 ### Analytical Skills and Methodologies
 Integration Testing, Regression Testing, UI Testing, Bug Reports, Cross Browser Testing
-<br><br>
+<br>
 
 ## Education
 - 2022	Higher School of Information Technology and Security  
 -, Cyber Security
-- 2011	Belarussian National Technical University  
+- 2011	Belarussian National Technical University
 Bachelor, Information Measuring Devices and Technologies
-<br><br>
 
 ## Training Courses
 - Aug 2020  
 Python QA Engineer
-<br><br>
 
 ## Languages
 Russian – Native
 English – Upper Intermediate
-<br><br>
+<br>
 
 ## Work Experience
 ### Luxoft
@@ -83,7 +81,7 @@ Working on automating the deployment of a test environment using Ansible.
 <br>
 **Technology and Skills**:  
 C#, GitHub, Go programming language, Microsoft Visual Studio, Python, Shell Scripting
-<br><br>
+<br>
 <hr>  
 
 ### Neotech
@@ -106,8 +104,9 @@ Main purpose was to develop administration part for a gambling site. Main progra
 <br>
 **Technology and Skills**:  
 Apache Kafka, API testing, Fiddler, PostgreSQL, Python, REST API, Swagger
-<br><br>
-___
+<br>
+<hr>  
+
 ### Destiny.Games
 Sep 2018 – Mar 2020, Senior software testing engineer  
 Freelance  
@@ -130,8 +129,9 @@ General purpose was to develop a video game digital distribution service. Main p
 <br>
 **Technology and Skills**:  
 ClickHouse, DBeaver, Fiddler, PostgreSQL, PyCharm, PyTest, Python
-<br><br>
-___
+<br>
+<hr>  
+
 ### Qulix Systems
 Dec 2014 – Aug 2018, Software testing engineer  
 Belarus | Minsk  
@@ -154,8 +154,9 @@ manual deployment of packages on test environment, working with Microsoft SQL Se
 
 **Technology and Skills**:  
 API testing, Fiddler, Microsoft SQL Server Management Studio (SSMS), Postman, Redis, Shell Scripting
-<br><br>
-___
+<br>
+<hr>  
+
 ### Andersen
 Nov 2013 – Nov 2014, Software testing engineer  
 Belarus | Minsk  
@@ -170,8 +171,9 @@ Testing API using Postman and SoapUI.
 <br>
 **Technology and Skills**:  
 Integration Testing, Postman, Regression Testing, SoapUI, UI Testing, Web Testing
-<br><br>
-___
+<br>
+<hr>  
+
 ### Itransition
 Aug 2013 – Oct 2013, Software testing engineer  
 Belarus | Minsk  
@@ -182,8 +184,9 @@ Web application for employees involved in the extension of mortgage to low-incom
 Test cases creation, regression testing, new functionality testing, cross browser testing, bug reporting and tracking  
 **Technology and Skills**:  
 Atlassian Jira, Bug Reports, Cross Browser Testing, Regression Testing
-<br><br>
-___
+<br>
+<hr>  
+
 ### Belinvestbank
 Aug 2010 – Jul 2013, ATM service specialist  
 Belarus | Minsk  
