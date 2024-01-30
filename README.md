@@ -6,7 +6,9 @@ Location: _Minsk (ready for relocation)_ <br>
 Desired role: _Test Engineer (Web, Backend, Desktop, Automation)_  <br>
 Preferable projects: _With a focus on information security: SCA, Firewall, etc_ <br>
 
-[Email](sergey_agafonov@mail.ru) / [LinkedIn](https://linkedin.com/in/sergey-agafonov-196892129 )
+Contacts:  
+sergey_agafonov@mail.ru  
+[LinkedIn](https://linkedin.com/in/sergey-agafonov-196892129 )
 
 ## Summary
 
@@ -81,7 +83,7 @@ Working on automating the deployment of a test environment using Ansible.
 **Technology and Skills**:  
 C#, GitHub, Go programming language, Microsoft Visual Studio, Python, Shell Scripting
 <br><br>
-***
+___
 ### Neotech
 Mar 2020 – Sep 2020, Software testing engineer  
 Belarus | Minsk  
@@ -101,9 +103,9 @@ Main purpose was to develop administration part for a gambling site. Main progra
 • Analysis of service logs.  
 <br>
 **Technology and Skills**:  
-Apache Kafka, API testing, Fiddler, PostgreSQL, Python, REST API, Swagger  
+Apache Kafka, API testing, Fiddler, PostgreSQL, Python, REST API, Swagger
 <br><br>
-***
+___
 ### Destiny.Games
 Sep 2018 – Mar 2020, Senior software testing engineer  
 Freelance  
@@ -125,9 +127,9 @@ General purpose was to develop a video game digital distribution service. Main p
 • Analysis of service logs.  
 <br>
 **Technology and Skills**:  
-ClickHouse, DBeaver, Fiddler, PostgreSQL, PyCharm, PyTest, Python  
+ClickHouse, DBeaver, Fiddler, PostgreSQL, PyCharm, PyTest, Python
 <br><br>
-***
+___
 ### Qulix Systems
 Dec 2014 – Aug 2018, Software testing engineer  
 Belarus | Minsk  
@@ -151,7 +153,7 @@ manual deployment of packages on test environment, working with Microsoft SQL Se
 **Technology and Skills**:  
 API testing, Fiddler, Microsoft SQL Server Management Studio (SSMS), Postman, Redis, Shell Scripting
 <br><br>
-***
+___
 ### Andersen
 Nov 2013 – Nov 2014, Software testing engineer  
 Belarus | Minsk  
@@ -165,9 +167,9 @@ Testing web client and administrative part including integration with 3rd-party 
 Testing API using Postman and SoapUI.  
 <br>
 **Technology and Skills**:  
-Integration Testing, Postman, Regression Testing, SoapUI, UI Testing, Web Testing  
+Integration Testing, Postman, Regression Testing, SoapUI, UI Testing, Web Testing
 <br><br>
-***
+___
 ### Itransition
 Aug 2013 – Oct 2013, Software testing engineer  
 Belarus | Minsk  
@@ -177,9 +179,9 @@ Web application for employees involved in the extension of mortgage to low-incom
 **Responsibilities**:  
 Test cases creation, regression testing, new functionality testing, cross browser testing, bug reporting and tracking  
 **Technology and Skills**:  
-Atlassian Jira, Bug Reports, Cross Browser Testing, Regression Testing  
+Atlassian Jira, Bug Reports, Cross Browser Testing, Regression Testing
 <br><br>
-***
+___
 ### Belinvestbank
 Aug 2010 – Jul 2013, ATM service specialist  
 Belarus | Minsk  
