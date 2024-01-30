@@ -1,12 +1,12 @@
 # Sergei Agafonov
 
-Role: _Test Engineer_ <br>
-Specialization: _Manual testing, Automated Testing (Python)_ <br>
-Location: _Minsk (ready for relocation)_ <br>
-Desired role: _Test Engineer (Web, Backend, Desktop, Automation)_  <br>
-Preferable projects: _With a focus on information security: SCA, Firewall, etc_ <br>
+**Role**: _Test Engineer_ <br>
+**Specialization**: _Manual testing, Automated Testing (Python)_ <br>
+**Location**: _Minsk (ready for relocation)_ <br>
+**Desired role**: _Test Engineer (Web, Backend, Desktop, Automation)_  <br>
+**Preferable projects**: _With a focus on information security: SCA, Firewall, etc_ <br>
 
-Contacts:  
+**Contacts**:  
 sergey_agafonov@mail.ru  
 [LinkedIn](https://linkedin.com/in/sergey-agafonov-196892129 )
 
@@ -44,6 +44,7 @@ I’m interested in information security,  automation testing.
 - SoapUI,
 - Web Testing,
 - Atlassian Jira.
+
 ### Analytical Skills and Methodologies
 Integration Testing, Regression Testing, UI Testing, Bug Reports, Cross Browser Testing
 <br><br>
@@ -83,7 +84,8 @@ Working on automating the deployment of a test environment using Ansible.
 **Technology and Skills**:  
 C#, GitHub, Go programming language, Microsoft Visual Studio, Python, Shell Scripting
 <br><br>
-___
+<hr>  
+
 ### Neotech
 Mar 2020 – Sep 2020, Software testing engineer  
 Belarus | Minsk  
